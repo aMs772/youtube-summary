@@ -1,0 +1,14 @@
+[project]
+name = "internship"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google-api-python-client>=2.197.0",
+    "google-auth>=2.53.0",
+    "google-auth-oauthlib>=1.4.0",
+    "openai>=2.41.1",
+    "youtube-transcript-api>=1.2.4",
+]
