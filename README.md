@@ -24,7 +24,11 @@ email = adusumalli.satvik@gmail.com
 contact = 7993755452 
 ```
 # Usage
-After following installation and requirements, you can run main.py. If everything went right a browser window will open asking for access to google docs. After giving access a google doc link will be printed on your terminal.  
+After following installation and requirements, you can run main.py. You will be prompted for a youtube url, paste the complete url. If everything went right a browser window will open asking for access to google docs. After giving access a google doc link will be printed on your terminal.  
 The final doc will be saved in your drive by the name of YouTube Knowledge Pipeline.
+
+# Example:
+url = https://www.youtube.com/watch?v=S-ruhKC_Y00  
+doc = the docx file in repository
 
 # THANK YOU
